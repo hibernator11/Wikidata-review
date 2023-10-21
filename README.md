@@ -1,5 +1,5 @@
 # Wikidata-review
-Supplementary material for the work "A systematic review of Wikidata in GLAM institutions"
+This project includes supplementary material for the research work "A systematic review of Wikidata in GLAM institutions".
 
 ## Introduction
 All the items analysed in this work have been included in Wikidata, when not available, using the [Scholia tool](https://scholia.toolforge.org/).
