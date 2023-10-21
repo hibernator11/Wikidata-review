@@ -27,7 +27,7 @@ ORDER BY DESC(?articles)
 ```
 
 ## SPARQL Construct query
-This query was used to extract the metadata describing the articles used in this work from Wikidata.
+This query was used to extract the metadata describing the articles used in this work from Wikidata. The sentence can be run in the [publich Wikidata SPARQL endpoint](https://w.wiki/7rHP). 
 
 ```
 CONSTRUCT {
