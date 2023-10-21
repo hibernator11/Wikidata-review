@@ -64,6 +64,9 @@ WHERE {
 }
 ```
 
+## Dataset
+The dataset is provided in the folder `dataset` and includes 3 formats: CSV, JSON and TSV. These files have been retrieved and created from the public Wikidata SPARQL endpoint.
+
 ## References
 - Gustavo Candela: An automatic data quality approach to assess semantic data from cultural heritage institutions. J. Assoc. Inf. Sci. Technol. 74(7): 866-878 (2023). https://doi.org/10.1002/asi.24761
 - Fudie Zhao: A systematic review of Wikidata in Digital Humanities projects. Digit. Scholarsh. Humanit. 38(2): 852-874 (2023). https://doi.org/10.1093/llc/fqac083
