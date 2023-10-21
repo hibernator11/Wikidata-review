@@ -25,6 +25,7 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
 } GROUP BY ?mainSubject ?mainSubjectLabel ?mainSubjectDescription
 ORDER BY DESC(?articles)
 ```
+<img src="bubble.png" width="50%">
 
 ## SPARQL Construct query
 This query was used to extract the metadata describing the articles used in this work from Wikidata. The sentence can be run in the [publich Wikidata SPARQL endpoint](https://w.wiki/7rHP). 
