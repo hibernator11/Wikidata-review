@@ -1,0 +1,390 @@
+subject	predicate	object	context
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P1476	Integrated classification schemas to interlink cultural heritage collections over the web using LOD technologies	
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P2093	Carlos Henrique Marcondes	
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P577	2021-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15751070	
+http://www.wikidata.org/entity/Q121966745	http://www.wikidata.org/prop/direct/P356	10.1504/IJMSO.2021.10047553	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q23927052	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P1476	Wikidata in Metadata Formation Methods for Documents of Digital Mathematical Library	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P2093	Aleksandr Mikhajlovich Elizarov	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P577	2021-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P356	10.20948/ABRAU-2021-3-CEUR	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P2093	Evgeny Konstantinovich Lipachev	
+http://www.wikidata.org/entity/Q122987597	http://www.wikidata.org/prop/direct/P2093	Polina Olegovna Gafurova	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q23927052	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P1476	Integration of text and geospatial search for hydrographic datasets using the lucene search library	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P2093	Jimmy Lin	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P577	2022-06-20T00:00:00Z	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P356	10.1145/3529372.3533280	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P1476	Opening Our Deep Backfiles: Identifying Open and Public Domain Serial Content in Library Collections	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P2093	Bethany Blankemeyer	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P577	2021-07-30T00:00:00Z	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15762631	
+http://www.wikidata.org/entity/Q122987257	http://www.wikidata.org/prop/direct/P356	10.1080/00987913.2021.1939922	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P1476	Entity Management Using Wikidata for Cultural Heritage Information	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57985270	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P2093	Lihong Zhu	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P577	2023-03-17T00:00:00Z	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q5051313	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P356	10.1080/01639374.2023.2188338	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q66314474	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q210272	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57967546	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q1980247	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P1476	A Knowledge Graph of Contentious Terminology for Inclusive Representation of Cultural Heritage	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57966547	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P2093	Laura Hollink	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P577	2023-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q118792819	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P356	10.1007/978-3-031-33455-9_30	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q33002955	
+http://www.wikidata.org/entity/Q117237722	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q113088648	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P1476	An automatic data quality approach to assess semantic data from cultural heritage institutions	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q114755779	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P577	2023-04-21T00:00:00Z	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q152040	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P356	10.1002/ASI.24761	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q210272	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1757694	
+http://www.wikidata.org/entity/Q118240340	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q18692990	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P1476	Evaluating the quality of linked open data in digital libraries	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q114755779	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P2093	Pilar Escobar	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P577	2022-02-01T00:00:00Z	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q152047	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P356	10.1177/0165551520930951	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q18692990	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P1476	An approach to assess the quality of Jupyter projects published by <scp>GLAM</scp> institutions	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q58823026	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P2093	Sally Chambers	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P577	2023-09-25T00:00:00Z	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q152040	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P356	10.1002/ASI.24835	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P1476	An investigation of linked data catalogue features in libraries, archives, and museums: a checklist approach	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P2093	Ya-Ning Chen	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P577	2023-08-24T00:00:00Z	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15766869	
+http://www.wikidata.org/entity/Q122987586	http://www.wikidata.org/prop/direct/P356	10.1108/EL-03-2023-0070	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P2093	Manuel Marco-Such	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P1476	Gender equality in library science and book history Italian journals: a focus on boards, authors and peer-reviewers	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q58686493	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P577	2023-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q116810655	http://www.wikidata.org/prop/direct/P356	10.36253/JLIS.IT-509	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P1476	Data Provenance and Administrative Information in Library Linked Data: Reviewing RDA in RDF, BIBFRAME, and Wikidata	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P2093	Shoichi Taniguchi	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P577	2023-02-24T00:00:00Z	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q5051313	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P356	10.1080/01639374.2023.2178048	
+http://www.wikidata.org/entity/Q116940713	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q63973563	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P1476	Which Publications' Metadata Are in Which Bibliographic Databases? A System for Exploration	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57231890	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P2093	Nicholas Popovic	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q105700160	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q108305268	
+http://www.wikidata.org/entity/Q118894325	http://www.wikidata.org/prop/direct/P2093	Andrei Nesterov	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P2093	Tarek Saier	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P2093	Matthew Y. R. Yang	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P1476	Wikidata and knowledge graphs in practice: Using semantic SEO to create discoverable, accessible, machine-readable definitions of the people, places, and services in Libraries and Archives	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P2093	Helen K.R. Williams	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P577	2022-12-16T00:00:00Z	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q6030834	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P356	10.3233/ISU-220171	
+http://www.wikidata.org/entity/Q123114954	http://www.wikidata.org/prop/direct/P2093	Siwen Yang	
+http://www.wikidata.org/entity/Q122945951	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q114755779	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P2093	Doralyn Rossmann	
+http://www.wikidata.org/entity/Q116626368	http://www.wikidata.org/prop/direct/P2093	Rafael C Carrasco	
+http://www.wikidata.org/entity/Q122987572	http://www.wikidata.org/prop/direct/P2093	Jason A. Clark	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P1476	Wikidata and Wikibase as complementary research data management services for cultural heritage data	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57697004	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P577	2022-11-04T00:00:00Z	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q115053286	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P1476	Wikidata Support in the Creation of Rich Semantic Metadata for Historical Archives	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P2093	Davide Colla	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P577	2021-05-12T00:00:00Z	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q27725631	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P356	10.3390/APP11104378	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P1476	Named Entity Disambiguation for Archival Collections: Metadata, Wikidata, and Linked Data	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P2093	Jian Qin	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P577	2021-10-17T00:00:00Z	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q29519845	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P356	10.1002/PRA2.490	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q180160	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P2093	Annamaria Goy	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q18918145	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P1476	Towards an open and collaborative Authority Control	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q67611457	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P356	10.4403/JLIS.IT-12767	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P1476	Inserción de metadatos de las bibliotecas españolas en Wikidata: un modelo de datos abiertos enlazados	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q58423203	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1321	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P577	2022-07-01T00:00:00Z	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q94574433	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P356	10.3989/REDC.2022.3.1870	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q180160	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q18692990	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P1476	Call me by your name: towards an authority data control shared between archives and libraries	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q61956380	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q111589027	http://www.wikidata.org/prop/direct/P356	10.4403/JLIS.IT-12733	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P2093	Christoph Braun	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q180160	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q816826	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1149776	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q16773055	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P1476	Wikidata: a new perspective towards universal bibliographic control	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q59137771	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P356	10.4403/JLIS.IT-12725	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q3535655	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q28402222	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P2093	Diego Magro	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q107299893	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q210272	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1149776	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P2093	Katherine Louise Polley	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q18918145	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q36524	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q16354758	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P1476	A Shape Expression approach for assessing the quality of Linked Open Data in libraries	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q114755779	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P2093	Manuel Marco-Such	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P577	2021-09-10T00:00:00Z	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15817015	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P356	10.3233/SW-210441	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q18692990	
+http://www.wikidata.org/entity/Q110623130	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q54553295	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P1476	Linking different scientific digital libraries in Digital Humanities: the IMAGO case study	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q61483179	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P2093	Nicolò Pratelli	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P577	2022-08-20T00:00:00Z	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15767057	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P356	10.1007/S00799-022-00331-4	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P2093	Marco Leontino	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P2093	Brendan John Honick	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P1476	The role of the Wikidata librarian in a renewed Bibliographical Universe: “next generation metadata”, next generation librarians	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57389311	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q652	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P356	10.36253/JLIS.IT-460	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P1476	Cultural information bubbles: A new approach forautomatic ethical evaluation of digital artworkcollections based on Wikidata	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q75514719	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P2093	Sara Minster	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P577	2022-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q42590839	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P356	10.1093/LLC/FQAC076	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q111319831	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112031360	http://www.wikidata.org/prop/direct/P2093	Vivian Teresa Tompkins	
+http://www.wikidata.org/entity/Q115055573	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q115057988	
+http://www.wikidata.org/entity/Q107806487	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q180160	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q112637240	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q7075	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P1476	Unveiling the veiled: Wikipedia collaborating with academic libraries in Africa in creating visibility for African women through Art+Feminism Wikipedia edit-a-thon	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q113293055	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P2093	Scholastica Chizoma Ukwoma	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P577	2021-07-09T00:00:00Z	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q53952043	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P356	10.1108/DLP-08-2020-0079	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P1476	Beyond VIAF. Wikidata as a Complementary Tool for Authority Control in Libraries	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q54553295	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P577	2021-06-21T00:00:00Z	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15753976	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P356	10.6017/ITAL.V40I2.12959	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q54837	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q54919	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q74862511	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P2093	Chinwe Nwogo Ezeani	
+http://www.wikidata.org/entity/Q112054081	http://www.wikidata.org/prop/direct/P2093	Victoria Nwamaka Okafor	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q61727301	
+http://www.wikidata.org/entity/Q114389516	http://www.wikidata.org/prop/direct/P2093	Emanuele Lenzi	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P2093	Pilar Escobar	
+http://www.wikidata.org/entity/Q115915949	http://www.wikidata.org/prop/direct/P2093	Kristian Noullet	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P1476	Image-based information: paintings in Wikipedia	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q61962614	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P2093	Elena Villaespesa	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P577	2020-10-23T00:00:00Z	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q6295097	
+http://www.wikidata.org/entity/Q112032533	http://www.wikidata.org/prop/direct/P356	10.1108/JD-03-2020-0044	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q180160	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q182436	
+http://www.wikidata.org/entity/Q112041345	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q80490291	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q160236	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q190804	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q207694	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q212805	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q324254	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1379672	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q5193495	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q6423319	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q7328910	
+http://www.wikidata.org/entity/Q112768897	http://www.wikidata.org/prop/direct/P2093	María Dolores Sáez	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q60474998	
+http://www.wikidata.org/entity/Q115781260	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q106671785	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P1476	A Novel Method for Resolving and Completing Authors’ Country Affiliation Data in Bibliographic Records	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P2093	Jesse David Dinneen	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P577	2020-07-09T00:00:00Z	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q50810640	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P356	10.2478/JDIS-2020-0020	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P1476	An Observational Study of Equivalence Links in Cultural Heritage Linked Data for agents	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P2093	Nuno Freire	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P577	2020-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q924044	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P356	10.1007/978-3-030-54956-5_5	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q210272	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q515701	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P1476	Wikimedia and universities: contributing to the global commons in the Age of Disinformation	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q19959618	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P577	2020-04-29T00:00:00Z	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q21683551	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P356	10.1629/UKSG.509	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q52	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P2093	Antoine Isaac	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P1476	Linking Women Editors of Periodicals to the Wikidata Knowledge Graph	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q41533116	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P2093	Pieterjan De Potter	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P577	2021-02-27T00:00:00Z	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q15817015	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P356	10.3233/SW-222845	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q47487399	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1002697	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q1607826	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q6581072	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q33002955	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P1476	Biblioteche e bibliotecari nel Wikiproject Covid-19: authority control, contenuti di qualità e linked open data	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57976759	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q652	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P577	2020-11-16T00:00:00Z	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3600960	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P356	10.2426/AIBSTUDI-12189	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P1476	Regional Connections to National Authority Files	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P2093	Jeremy Myntti	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P577	2019-11-18T00:00:00Z	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q5051313	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P356	10.1080/01639374.2019.1690087	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q36524	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q107719116	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P1476	Wikidata at Fondazione Levi (Venice, Italy). A Case Study for the Publication of Data about Fondo Gambara, a Collection of 202 Musicians’ Portraits	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q54553295	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P577	2020-09-15T00:00:00Z	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P356	10.4403/JLIS.IT-12648	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q3747226	
+http://www.wikidata.org/entity/Q106474577	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q55233280	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q64348199	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P2093	Markus Luczak-Roesch	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q59825956	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q189656	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q3568028	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q3809586	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q45340488	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q64698644	
+http://www.wikidata.org/entity/Q92414206	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q109678085	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q13442814	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P1476	Wikidata for JLIS.it. A new step forward mapping Italian library and information science journals	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q54553295	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P577	2021-01-15T00:00:00Z	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P356	10.4403/JLIS.IT-12680	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q16387	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q104099664	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q104099847	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q38	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P2093	Ken Rockwell	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q57389311	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P31	http://www.wikidata.org/entity/Q23927052	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P1476	RDF Reasoning on Large Ontologies: A Study on Cultural Heritage and Wikidata	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P50	http://www.wikidata.org/entity/Q61093892	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P2093	Diogo Proença	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P407	http://www.wikidata.org/entity/Q1860	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P577	2020-01-01T00:00:00Z	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P1433	http://www.wikidata.org/entity/Q96148697	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P356	10.1007/978-3-030-49161-1_32	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q54872	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P2093	Ba Xuan Nguyen	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q403574	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q16685913	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q20745594	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q25052136	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q46135267	
+http://www.wikidata.org/entity/Q104150944	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q58327774	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P2093	Nicole Lewis	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q2013	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q7075	
+http://www.wikidata.org/entity/Q107308059	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q36524	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q18692990	
+http://www.wikidata.org/entity/Q105592649	http://www.wikidata.org/prop/direct/P2093	Hugo Manguinhas	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q84263196	
+http://www.wikidata.org/entity/Q103899610	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q87748614	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q3805294	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q5583871	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q13420675	
+http://www.wikidata.org/entity/Q96831129	http://www.wikidata.org/prop/direct/P2093	Allison M. McCormack	
+http://www.wikidata.org/entity/Q105755620	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q45340488	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q210272	
+http://www.wikidata.org/entity/Q96148694	http://www.wikidata.org/prop/direct/P921	http://www.wikidata.org/entity/Q324254	
